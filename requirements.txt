@@ -1,0 +1,10 @@
+# Versiones mínimas orientativas; para un despliegue reproducible fija versiones tras probarlas.
+mss>=9.0.1
+Pillow>=10.2.0
+openai>=1.40.0
+python-dotenv>=1.0.0
+pyautogui>=0.9.54
+pynput>=1.7.7
+sounddevice>=0.4.7
+vosk>=0.3.45
+pyttsx3>=2.90
